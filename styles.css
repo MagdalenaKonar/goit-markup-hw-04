@@ -141,23 +141,28 @@ cursor:pointer}
 
 /* <!-- <<<<<<<<<<<<<<BODY >>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
-
-
 .effective-sollution{
     background-color:#2F303A;
-    width: 1600px;
+    max-width: 1600px;
     height: 600px;
-    padding-top: 205px;
+    padding-top: 200px;
     margin-right: auto;
     margin-left: auto;
     align-items: center;
+    background-image:linear-gradient(0deg,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)),url(./images/background1\ efektywne.jpg); 
+    background-position: 50% 35%;
+    background-repeat: no-repeat;
+    background-size: 1600px;
+
 }
+
 
 .effective-sollution .container{
     display: block;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
+    
     
 }
 
